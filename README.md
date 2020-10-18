@@ -1,3 +1,3 @@
-# Testgit
+# TestGit
 For testing git
-by podu
+by shreya poddar
